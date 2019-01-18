@@ -2,7 +2,7 @@
 
 A flutter badge widget.
 
-![](https://github.com/Czarche/flutter_badge/blob/master/screen1.png)
+<img src="https://github.com/Czarche/flutter_badge/blob/master/screen1.png" width="405" height="340">
 
 ## Installing
 
