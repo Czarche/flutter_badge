@@ -2,6 +2,8 @@
 
 A flutter badge widget.
 
+![](https://github.com/Czarche/flutter_badge/blob/master/screen1.png)
+
 ## Installing
 
 In your pubspec.yaml
